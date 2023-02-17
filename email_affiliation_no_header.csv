@@ -69,7 +69,6 @@ Bar-Ilan University,biu.ac.il,biu.ac.il,bu.biu.ac.il
 Bloomberg LP,bloomberg.net,bloomberg.net,bl.bloomberg.net
 ,,booking.com,
 Federal Reserve Bank of Boston,bos.frb.org,bos.frb.org,frbob.bos.frb.org
-[PDF] imf.org,[PDF],bot.or.th,[i.[PDF]
 Banco de Portugal,bportugal.pt,bportugal.pt,bdp.bportugal.pt
 Brandeis University,brandeis.edu,brandeis.edu,bu.brandeis.edu
 ,,briq-institute.org,
@@ -191,7 +190,6 @@ Duke University,duke.edu,duke.edu,du.duke.edu
 ,,duquesne.com,
 Durham University,dur.ac.uk,durham.ac.uk,du.dur.ac.uk
 University of Tokyo,u-tokyo.ac.jp,e.u-tokyo.ac.jp,uot.u-tokyo.ac.jp
-[PDF] cambridge.org,[PDF],easternbank.com,[c.[PDF]
 ,,ebrd.com,
 "European Commission, Joint Research Centre",europa.eu,ec.europa.eu,ecjrc.europa.eu
 "European Commission, Joint Research Centre",europa.eu,ecb.europa.eu,ecjrc.europa.eu
@@ -1046,3 +1044,5 @@ ETH Zürich,ethz.ch,math.ethz.ch,ez.ethz.ch
 "School of Oriental and African Studies, London",soas.ac.uk,soas.ac.uk,sooaasl.soas.ac.uk
 Harvard University,harvard.edu,stat.harvard.edu,hu.harvard.edu
 ,,wedefineapps.com,
+,,bot.or.th,
+,,easternbank.com,
