@@ -1,6 +1,6 @@
 CREATE TABLE author
   (authorid char(12),
-   name varchar(30),
+   authorname varchar(30),
    misc varchar(100),
    emailsuffix varchar(50),
    t2302cite integer,
@@ -83,7 +83,8 @@ CREATE TABLE author_article
 CREATE TABLE affiliation
 	(affiliationid varchar(50),
 	 name varchar(100),
-	 email varchar(50)
+	 email varchar(50),
+	 rank integer
 	);
 
 .separator ","

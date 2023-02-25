@@ -60,7 +60,7 @@ for i, file in enumerate(files):
 
         # append other info
         authordic["authorid"].append(authorid)
-        authordic["name"].append(name)
+        authordic["authorname"].append(name)
         authordic["misc"].append(misc)
         authordic["emailsuffix"].append(emailsuffix.lower())
         authordic["t2302cite"].append(t2302cite)
