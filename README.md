@@ -40,18 +40,18 @@
 
 ### Structure of Repo
 * codes folder:
-    1. *ipynb*: contains the Jupyter Notebook for scraping and analysis
-    2. *py*: contains scripts to scrape author/articles
-    3. *sql*: contains the file to create database
-    4. *all_in_one_codes.ipynb*: main codes collected from the above 3 folders
+    1. [*ipynb*](https://github.com/macs30122-winter23/final-project-netrunner/tree/main/codes/ipynb): contains the Jupyter Notebook for data collection and analysis
+    2. [*py*](https://github.com/macs30122-winter23/final-project-netrunner/tree/main/codes/py): contains scripts to scrape author/articles
+    3. [*sql*](https://github.com/macs30122-winter23/final-project-netrunner/tree/main/codes/sql): contains the file to create database
+    4. [*all_in_one_codes.ipynb*](https://github.com/macs30122-winter23/final-project-netrunner/blob/main/codes/all_in_one_codes.ipynb): main codes collected from the above 3 folders
 * data folder:
-    1. *authors*: contains html files for Google Scholars profiles
-    2. *csv*: contains csv files used for database construction
-    3. *gephifiles*: contains the gexf and Gephi Project files that uses for network visualization
-    4. *journals*: contains the raw data for Top 20 Economic Journals
+    1. [*authors*](https://github.com/macs30122-winter23/final-project-netrunner/tree/main/data/authors): contains html files for Google Scholars profiles
+    2. [*csv*](https://github.com/macs30122-winter23/final-project-netrunner/tree/main/data/csv): contains csv files used for database construction
+    3. [*gephifiles*](https://github.com/macs30122-winter23/final-project-netrunner/tree/main/data/gephifiles): contains the gexf and Gephi Project files that uses for network visualization
+    4. [*journals*](https://github.com/macs30122-winter23/final-project-netrunner/tree/main/data/journals): contains the raw data for Top 20 Economic Journals
 * present folder:
-    1. *graph*: contains all the graphs we produce for visualizations
-    2. *ppt*: contain both the presented version slides and an updated version
+    1. [*graph*](https://github.com/macs30122-winter23/final-project-netrunner/tree/main/present/graph): contains all the graphs we produce for visualizations
+    2. [*ppt*](https://github.com/macs30122-winter23/final-project-netrunner/tree/main/present/ppt): contain both the presented version slides and an updated version
 
 ### Contributions:
 1. **Data Scraping and Cleaning**:
