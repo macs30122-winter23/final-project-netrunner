@@ -74,8 +74,8 @@
     - Yicheng Zhang
 
 ### In-class Presentation Sildes
-- [Presented Version]()
-- [Updated Version]()
+- [Presented Version](https://github.com/macs30122-winter23/final-project-netrunner/blob/main/present/ppt/Netrunner%20-%20MACS30122%20Final%20Project%20-%20Presented.pdf)
+- [Updated Version](https://github.com/macs30122-winter23/final-project-netrunner/blob/main/present/ppt/Netrunners%20-%20MACS30122%20Final%20Project%20-%20Updated.pdf)
 
 ### Demonstration Video
 - [Video Link]()
