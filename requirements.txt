@@ -1,0 +1,10 @@
+bertopic==0.14.0
+pandas==1.5.1
+plotly==5.11.0
+selenium==4.4.3
+umap-learn==0.5.3
+nltk==3.7
+numpy==1.21.6
+networkx==2.7.1
+bs4==4.11.1
+python==3.9.12

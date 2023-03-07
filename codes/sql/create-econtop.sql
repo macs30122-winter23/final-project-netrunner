@@ -70,7 +70,7 @@ CREATE TABLE article
    );
 
 .separator ","
-.import article_no_header.csv article
+.import ../../data/csv/article_no_header.csv article
 
 CREATE TABLE author_article
 	(authorid char(12),
@@ -78,7 +78,7 @@ CREATE TABLE author_article
 	);
 
 .separator ","
-.import author_article_no_header.csv author_article
+.import ../../data/csv/author_article_no_header.csv author_article
 
 CREATE TABLE affiliation
 	(affiliationid varchar(50),
@@ -88,4 +88,4 @@ CREATE TABLE affiliation
 	);
 
 .separator ","
-.import affiliation_no_header.csv affiliation
+.import ../../data/csv/affiliation_no_header.csv affiliation
