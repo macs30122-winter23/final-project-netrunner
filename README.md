@@ -19,7 +19,7 @@
     2. TM:
         - Topics are stable in trends across time with some fluctuations but can vary a lot across different institutions.
     3. SNA & TM:
-        - entralities of university-institutions are relatively similar in what they research, but World Bank shows a large discrepancy against university-institutions.
+        - Centralities of university-institutions are relatively similar in what they research, but World Bank shows a large discrepancy against university-institutions.
 
 ### Data Sources
 1. [Econpapers](https://econpapers.repec.org/)
