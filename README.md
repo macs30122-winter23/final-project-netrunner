@@ -67,8 +67,13 @@
     - Social Network Analysis: Jerry Cheng, Yicheng Zhang
     - Topic Modeling: Jerry Cheng
 3. **Proposal, Slides, Progress Report, Final Report**:
+<<<<<<< HEAD
     - Literature review: Hongzhang Xie
     - Others: Evenly distributed
+=======
+    - Evenly distributed
+    - Literature Review: Hongzhang Xie
+>>>>>>> 498b0efebfe4d524708a3fd421ff0b5e54020117
 4. **Codes Cleaning**:
     - Jerry Cheng, Hongzhang Xie
 5. **Video Recording**:
