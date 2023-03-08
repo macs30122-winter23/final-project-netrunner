@@ -68,6 +68,7 @@
     - Topic Modeling: Jerry Cheng
 3. **Proposal, Slides, Progress Report, Final Report**:
     - Evenly distributed
+    - Literature Review: Hongzhang Xie
 4. **Codes Cleaning**:
     - Jerry Cheng, Hongzhang Xie
 5. **Video Recording**:
