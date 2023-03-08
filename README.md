@@ -67,7 +67,8 @@
     - Social Network Analysis: Jerry Cheng, Yicheng Zhang
     - Topic Modeling: Jerry Cheng
 3. **Proposal, Slides, Progress Report, Final Report**:
-    - Evenly distributed
+    - Literature review: Hongzhang Xie
+    - Others: Evenly distributed
 4. **Codes Cleaning**:
     - Jerry Cheng, Hongzhang Xie
 5. **Video Recording**:
@@ -80,6 +81,8 @@
 ### Demonstration Video
 - [Video Link](https://uchicagoedu-my.sharepoint.com/:v:/g/personal/zycheng_uchicago_edu/EZff7QMXKZNGhE3CpekBDm0B-z03txsei8BCRWwLLoYkFw?e=Ua32pa)
 
+### Final Report
+- [Report Link]()
 
 Shield: [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
