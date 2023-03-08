@@ -67,13 +67,8 @@
     - Social Network Analysis: Jerry Cheng, Yicheng Zhang
     - Topic Modeling: Jerry Cheng
 3. **Proposal, Slides, Progress Report, Final Report**:
-<<<<<<< HEAD
     - Literature review: Hongzhang Xie
     - Others: Evenly distributed
-=======
-    - Evenly distributed
-    - Literature Review: Hongzhang Xie
->>>>>>> 498b0efebfe4d524708a3fd421ff0b5e54020117
 4. **Codes Cleaning**:
     - Jerry Cheng, Hongzhang Xie
 5. **Video Recording**:
@@ -87,7 +82,10 @@
 - [Video Link](https://uchicagoedu-my.sharepoint.com/:v:/g/personal/zycheng_uchicago_edu/EZff7QMXKZNGhE3CpekBDm0B-z03txsei8BCRWwLLoYkFw?e=Ua32pa)
 
 ### Final Report
-- [Report Link]()
+- [Report Link](https://github.com/macs30122-winter23/final-project-netrunner/blob/main/MACS30122_Netrunners_Final_Report.pdf)
+
+
+<hr>
 
 Shield: [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
