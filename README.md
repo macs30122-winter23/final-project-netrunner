@@ -24,7 +24,7 @@
 ### Data Sources
 1. [Econpapers](https://econpapers.repec.org/)
 2. [AEA](https://www.aeaweb.org/)
-3. [ideas](https://ideas.repec.org/)
+3. [IDEAS](https://ideas.repec.org/)
 4. [Google Scholar](https://scholar.google.com/)
 
 ### Required Packages (can also see the requirements.txt)
@@ -78,4 +78,4 @@
 - [Updated Version](https://github.com/macs30122-winter23/final-project-netrunner/blob/main/present/ppt/Netrunners%20-%20MACS30122%20Final%20Project%20-%20Updated.pdf)
 
 ### Demonstration Video
-- [Video Link]()
+- [Video Link](https://uchicagoedu-my.sharepoint.com/:v:/g/personal/zycheng_uchicago_edu/EZff7QMXKZNGhE3CpekBDm0B-z03txsei8BCRWwLLoYkFw?e=Ua32pa)
